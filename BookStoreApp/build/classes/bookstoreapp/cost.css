@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1-Apr-2021, 3:01:43 PM
+    Author     : Thomas Pazhaidam
+*/
+
+.root{
+    -fx-background-color:  #222831;
+    -fx-font-size: 12pt;
+    
+}.label{
+    -fx-font-family: Helvetica, sans-serif;
+    -fx-text-fill: #FFD369;
+    -fx-font-size: 15pt;
+    -fx-font-weight: bold;
+}.button{
+    -fx-text-fill: #FFD369; 
+    -fx-background-color:  #393e46;
+            
+}

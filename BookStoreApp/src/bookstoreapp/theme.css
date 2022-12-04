@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31-Mar-2021, 6:51:05 PM
+    Author     : Thomas Pazhaidam
+*/
+.root{
+    -fx-background-color:  #222831;
+    -fx-font-size: 12pt;
+    
+}
+.button{
+    -fx-text-fill: #FFD369; 
+    -fx-background-color:  #393e46;
+            
+}
+.textfield{
+    -fx-text-fill: #FFD369;
+    -fx-background-color:  #393e46;
+}
+#text{
+    -fx-font-family: url("CovesBold.ttf");
+}
+.label{
+    -fx-text-fill: #FFD369; 
+    -fx-font-family: "Coves";
+}
